@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+
+/consumer-dm/target/
+/eureka-server/target/
+/gateway/target/
+/user-service/target/
+user-service/src/test/

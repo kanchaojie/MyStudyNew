@@ -1,0 +1,12 @@
+-- 初始化
+Git init
+-- 添加版本管理
+git add.
+-- 连接到远程
+git remote add origin git@github.com:kanchaojie/MyStudyNew.git
+
+-- 提交
+Git commit
+
+-- 推送
+git push
