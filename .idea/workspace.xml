@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5ec2a49-8339-4154-9c76-b40ee359f86e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServer">
+  <component name="RunManager" selected="Spring Boot.UserApplication">
     <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="consumer-dm" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kcj.ConsumerApplication" />
@@ -138,7 +138,7 @@
       <workItem from="1616575814967" duration="923000" />
       <workItem from="1616750487730" duration="544000" />
       <workItem from="1617004951686" duration="850000" />
-      <workItem from="1617326684854" duration="5739000" />
+      <workItem from="1617326684854" duration="5993000" />
     </task>
     <task id="LOCAL-00001" summary="初始化提交">
       <created>1605148959915</created>
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617330805867</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="注册中心参数修改">
+      <created>1617334592853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617334592853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +200,7 @@
     <MESSAGE value="小样提交" />
     <MESSAGE value="fix" />
     <MESSAGE value="注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="注释" />
+    <MESSAGE value="注册中心参数修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="注册中心参数修改" />
   </component>
 </project>

@@ -13,7 +13,8 @@ eureka:
     #设置不再注册自己
   instance:
     prefer-ip-address: true
-    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
+    instance-id: ${spring.cloud.client.ip-address}:${server.port}
+    #${spring.cloud.client.ip-address}:${spring.application.name}:${server.port} ip+服务名+地址
   server:
     eviction-interval-timer-in-ms: 60000
     #默认60秒剔除一次，单位为毫秒，作用为剔除下线状态的服务，即为down状态的服务
