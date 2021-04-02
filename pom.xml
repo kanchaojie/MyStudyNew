@@ -41,6 +41,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+            <!--通用mapper-->
             <dependency>
                 <groupId>tk.mybatis</groupId>
                 <artifactId>mapper-spring-boot-starter</artifactId>
